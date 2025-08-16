@@ -14,3 +14,10 @@ button {
   cursor: pointer;
 }
 button:hover { background: #f7f7f7; }
+
+.title{
+  background-color: indigo;
+}
+.red{
+  color: red;
+}
